@@ -25,10 +25,10 @@ function App() {
           <h2>Nuestros Momentos</h2>
 
           <div className="gallery">
-            <img src="public/foto1.jpg" alt="" />
-            <img src="public/foto2.jpg" alt="" />
-            <img src="public/foto3.jpg" alt="" />
-            <img src="public/foto4.jpg" alt="" />
+            <img src="/foto1.jpg" alt="" />
+            <img src="/foto2.jpg" alt="" />
+            <img src="/foto3.jpg" alt="" />
+            <img src="/foto4.jpg" alt="" />
 
           </div>
         </section>
