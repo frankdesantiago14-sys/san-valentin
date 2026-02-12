@@ -8,7 +8,7 @@ function App() {
 
         {/* CANCIÓN */}
         <section className="section">
-          <img src="/caratula.jpg" alt="Caratula" className="cover" />
+          <img src="/foto1.jpg" alt="Caratula" className="cover" />
 
           <h2>Gracias a Ti</h2>
    
@@ -28,7 +28,7 @@ function App() {
             <img src="/foto1.jpg" alt="" />
             <img src="/foto2.jpg" alt="" />
             <img src="/foto3.jpg" alt="" />
-            <img src="/foto4.jpg" alt="" />
+            <img src="/foto5.jpg" alt="" />
 
           </div>
         </section>
