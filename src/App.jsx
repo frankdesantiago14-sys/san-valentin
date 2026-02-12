@@ -27,7 +27,6 @@ function App() {
           <div className="gallery">
             <img src="/foto1.jpg" alt="" />
             <img src="/foto2.jpg" alt="" />
-            <img src="/foto3.jpg" alt="" />
             <img src="/foto5.jpg" alt="" />
 
           </div>
